@@ -1,2 +1,2 @@
 # DistanceTracker
- DistanceTracker using Google Maps SDK
+ DistanceTracker using Google Maps SDK with Kotlin
